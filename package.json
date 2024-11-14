@@ -9,10 +9,11 @@
   "author": "kapil bhise",
   "license": "ISC",
   "dependencies": {
-    "Router": "^2.1.0",
     "ejs": "^3.1.5",
     "express": "^4.17.1",
-    "mongoose": "^5.10.9",
-    "morgan": "^1.10.0"
+    "mongodb": "^6.10.0",
+    "mongoose": "^5.13.22",
+    "morgan": "^1.10.0",
+    "Router": "^2.1.0"
   }
 }
